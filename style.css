@@ -1,0 +1,12 @@
+body{
+    background-color: whitesmoke;
+    color: rgb(103, 153, 120);
+}
+
+button{
+    background-color: rgb(103, 153, 120);
+    color: whitesmoke;
+    border: 2px solid whitesmoke;
+    width: 100px;
+    height: 25px;
+}
