@@ -7,3 +7,8 @@ function inserir(){
     nome_cidade.push(cidade)
     console.log(nome_cidade)  
 }
+function excluir(){
+    let cidade= document.getElementById('cidade').value
+    nome_cidade.shift()
+    console.log(nome_cidade)
+}
